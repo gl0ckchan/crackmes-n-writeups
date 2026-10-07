@@ -6,6 +6,8 @@ Language: C/C++
 
 Platform: Windows
 
+Arch: x86-64 
+
 Difficulty: 1.0
 
 ## writeup
