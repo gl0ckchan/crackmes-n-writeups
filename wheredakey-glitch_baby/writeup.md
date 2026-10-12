@@ -90,6 +90,10 @@ Enter the Password: password
 
 следовательно пароль - `BashQc3fZ16AjD701x0O`
 
+	UPDATE: 
+	интереса ради запустил radare2 в визуальном режиме, и программу. В стеке наглядно видно, что пароль такой.
+	![](images/password.png)
+
 проверяем пароль и видим сообщение об успехе (спасибо radare2 за то что очень помог).
 ```bash
 This crackme is brought to you by GlitchBaby
