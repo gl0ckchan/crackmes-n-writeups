@@ -6,3 +6,4 @@
 
 - [jamesscrackme by jamesinuk](https://crackmes.one/crackme/5ab77f5e33c5d40ad448c748)
 - [CRACKME v1.0 by Cruehead](https://drive.google.com/file/d/1nh9T3FW571IrGeWCJOIOXAQiuSK-dnvL/view)
+- [Wheredakey by Glitch_Baby](https://crackmes.one/crackme/6ab4ce5195b976f8f1300b54)
